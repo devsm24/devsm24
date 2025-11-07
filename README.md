@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moni Akter</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHV5SeoPv0UKw/profile-displaybackgroundimage-shrink_350_1400/B56Zo_t1X6IYAY-/0/1762005572324?e=1764201600&v=beta&t=fWKPbUy68r_j5UAJA95kSIogRAS9lhINEeT3VskilE8">
 <h3 align="center">Freelance Web Designer & Developer | Building Modern, Responsive & User-Friendly Websites | HTML | CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsm24&label=Profile%20views&color=0e75b6&style=flat" alt="devsm24" /> </p>
